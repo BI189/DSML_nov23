@@ -1,7 +1,5 @@
 Hi everyone,
-
 Welcome to my github, this is my first github 
-
 thanks
-
 branch 1
+This is branch A
